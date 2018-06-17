@@ -7,6 +7,6 @@ public class Main {
         //System.out.println("1234");
         Test test1 = new Test();
         test1.imp();
-        JOptionPane.showMessageDialog(null, "very Good!");
+        JOptionPane.showMessageDialog(null, "Exellent!");
     }
 }
