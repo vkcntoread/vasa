@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Vasa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Vasa_jar</output-path>
+    <root id="archive" name="Vasa.jar">
+      <element id="module-output" name="Vasa" />
+    </root>
+  </artifact>
+</component>
