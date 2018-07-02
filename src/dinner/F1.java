@@ -25,12 +25,10 @@ public class F1 {
         thing.print();
 */
         Animal an1 = new Animal();
-
-
-
         Soundable m1 = new Mouse();
         an1.setAnimal(m1);
         an1.ms();
+        int v=1/0;
         //an1.whoIs();
         //System.out.println(an1.gP());
 
